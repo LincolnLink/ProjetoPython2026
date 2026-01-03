@@ -28,4 +28,21 @@ Iniciando um curso de python
 
 ### Aula07
 
-- 
+- variaveis
+
+### Aula08
+
+- variaveis
+
+### Aula09
+
+- operadores
+
+### Aula10
+
+- variaveis
+
+### Aula11
+### Aula12
+
+- calculos

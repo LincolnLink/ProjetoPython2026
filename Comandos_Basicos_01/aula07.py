@@ -12,3 +12,6 @@ print(nome)
 print(nome_completo)
 print(idade)
 print(type(nome))
+
+maior_de_idade = idade >= 18
+print("É maior de idade:", maior_de_idade)
