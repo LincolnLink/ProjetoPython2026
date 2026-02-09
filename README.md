@@ -53,7 +53,7 @@ abra o settings , clica no icone de arquivo com seta, e digita no jsom:
 
 - print, type, int, str, float
 
-### Aula05
+### Aula22
 
 - print, bool, type
 
