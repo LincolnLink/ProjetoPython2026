@@ -44,5 +44,17 @@ Iniciando um curso de python
 
 ### Aula11
 ### Aula12
+### Aula13
 
 - calculos
+
+### Aula14
+
+- parametros, formatação.
+
+### Aula15
+
+- Input
+
+### Aula 16
+
