@@ -36,20 +36,20 @@ abra o settings , clica no icone de arquivo com seta, e digita no jsom:
 
 - Python: é um plugin que torna o VScode uma IDE de python.
 
-### Aula01
+### Aula18
 
 - fala sobre docstring
   print e comentario
 
-### Aula02
+### Aula19
 
 - print
 
-### Aula03
+### Aula20
 
 - print
 
-### Aula04
+### Aula21
 
 - print, type, int, str, float
 
@@ -57,40 +57,48 @@ abra o settings , clica no icone de arquivo com seta, e digita no jsom:
 
 - print, bool, type
 
-### Aula06
+### Aula23
 
 - print, type e conversão str para int
 
-### Aula07
+### Aula24
 
 - variaveis
 
-### Aula08
+### Aula25
 
 - variaveis
 
-### Aula09
+### Aula27
 
 - operadores
 
-### Aula10
+### Aula28
 
 - variaveis
 
-### Aula11
+### Aula29
 
-### Aula12
+### Aula30
 
-### Aula13
+### Aula31
 
 - calculos
 
-### Aula14
+### Aula32
 
 - parametros, formatação.
 
-### Aula15
+### Aula34
 
 - Input
 
-### Aula 16
+### Aula 35
+### Aula 36
+### Aula 37
+
+- if, else
+
+### Aula 38
+
+Operadores de comparação
