@@ -209,9 +209,6 @@ solução do exercicio.
 For
 
 
-
-
-
 ### Aula 74
 
 ### Aula 75
@@ -227,7 +224,22 @@ For
 ### Aula 83
 
 
+# Seção 04: Python Intermediário - Funções, Dicionários, Módulos, Programação...
 
+### Aula 105
+
+### Aula 106
+
+### Aula 107
+
+### Aula 108
+
+
+# Seção 05: Introdução á programação orientada a objetos em python - POO
+
+### Aula 199
+
+### Aula 200
 
 
 
