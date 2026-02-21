@@ -117,29 +117,29 @@ in , not in
 
 ### Aula 45
 
-interpolação
+interpolação.
 
 ### Aula 46
 
-posicionamento
+posicionamento.
 
 ### Aula 47
 ### Aula 48
 ### Aula 49
 
-fatiamento, metodo len()
-exercicio
-resultado do exercicio
+fatiamento, metodo len().
+exercicio.
+resultado do exercicio.
 
 ### Aula 50
 
-Introdução ao try/except
+Introdução ao try/except.
 
 ### Aula 51
 ### Aula 52
 
 Boas praticas.
-exercicio
+exercicio.
 
 ### Aula 53
 
@@ -147,14 +147,87 @@ id das variaveis em memoria.
 
 ### Aula 54
 
-Flag, none, is, is not
+Flag, none, is, is not.
 sempre criar a variavel fora do bloco de codigo.
 
 ### Aula 55
 ### Aula 56
+### Aula 57
+### Aula 58
+
+exercicio.
+resultado do exercicio1.
+resultado do exercicio2.
+resultado do exercicio3.
+
+### Aula 59
+
+tipos imutaveis, só criando outra varivel com outro valor.
+
+### Aula 60
+### Aula 61
+
+while/break, repetição.
+contador
+
+### Aula 62
+
+usando operadores no contador.
+
+### Aula 63
+
+while/continue, cuidado quando for usar o continue, para não da loop infinito.
+
+### Aula 64
+
+while dentro de while.
+
+### Aula 65
+### Aula 66
 
 exercicio
-resultado do exercicio
+solução do exercicio.
+
+### Aula 67
+### Aula 68
+### Aula 69
+
+exercicio explicado.
+
+### Aula 70
+
+while/else, executa algo depois que o while termina.
+
+### Aula 71
+### Aula 72
+
+exercicio
+solução do exercicio.
+
+### Aula 73
+
+For
+
+
+
+
+
+### Aula 74
+
+### Aula 75
+### Aula 76
+### Aula 77
+
+### Aula 78
+### Aula 79
+### Aula 80
+
+### Aula 81
+### Aula 82
+### Aula 83
+
+
+
 
 
 
