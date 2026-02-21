@@ -42,11 +42,7 @@ abra o settings , clica no icone de arquivo com seta, e digita no jsom:
   print e comentario
 
 ### Aula19
-
-- print
-
 ### Aula20
-
 - print
 
 ### Aula21
@@ -62,9 +58,6 @@ abra o settings , clica no icone de arquivo com seta, e digita no jsom:
 - print, type e conversão str para int
 
 ### Aula24
-
-- variaveis
-
 ### Aula25
 
 - variaveis
@@ -78,27 +71,91 @@ abra o settings , clica no icone de arquivo com seta, e digita no jsom:
 - variaveis
 
 ### Aula29
-
 ### Aula30
 
+- calculos e IMC
+
 ### Aula31
-
-- calculos
-
 ### Aula32
 
 - parametros, formatação.
 
 ### Aula34
 
-- Input
+- format e input
 
 ### Aula 35
 ### Aula 36
 ### Aula 37
-
-- if, else
-
 ### Aula 38
 
 Operadores de comparação
+
+if, elif, else
+
+### Aula 38
+### Aula 39
+### Aula 40
+
+sinal de maior e menor
+
+### Aula 41
+
+and, todas precisa ser verdadeira
+
+### Aula 42
+
+or, quanlquer condição verdadeira avalia.
+
+### Aula 43
+
+not
+
+### Aula 44
+
+in , not in
+
+### Aula 45
+
+interpolação
+
+### Aula 46
+
+posicionamento
+
+### Aula 47
+### Aula 48
+### Aula 49
+
+fatiamento, metodo len()
+exercicio
+resultado do exercicio
+
+### Aula 50
+
+Introdução ao try/except
+
+### Aula 51
+### Aula 52
+
+Boas praticas.
+exercicio
+
+### Aula 53
+
+id das variaveis em memoria.
+
+### Aula 54
+
+Flag, none, is, is not
+sempre criar a variavel fora do bloco de codigo.
+
+### Aula 55
+### Aula 56
+
+exercicio
+resultado do exercicio
+
+
+
+
