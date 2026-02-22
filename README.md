@@ -228,11 +228,52 @@ For
 
 ### Aula 105
 
+explicação
+
 ### Aula 106
+
+inicia a função com (def), parametros.
 
 ### Aula 107
 
+argumento nomeado, e argumento posicional.
+
 ### Aula 108
+
+parametro com valor definido
+
+### Aula 109
+### Aula 110
+
+escopo de função local e escopo global.
+global, uma palavra que faz referencia a variavel de fora, mas não é bom usar,
+melhor passar por parametro.
+
+Call stack, uma parte do debugger.
+
+### Aula 111
+
+return, define o que vai ser retornado na função.
+
+### Aula 112
+### Aula 113
+*args (empacotamento e desempacotamento)
+
+### Aula 114
+
+exercicio, solução do exercicio.
+
+### Aula 115
+### Aula 116
+
+Higher Order Functions, Funções de primeira classe
+é passando para uma função, uma outra função por parametro,
+e o segundo parametro é um *arg uma coleção de dados.
+
+### Aula 117
+### Aula 118
+
+Closure e funções que retornam outras funções
 
 
 # Seção 05: Introdução á programação orientada a objetos em python - POO
