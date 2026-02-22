@@ -280,8 +280,64 @@ Closure e funções que retornam outras funções
 
 ### Aula 199
 
+recomendação de livro.
+
 ### Aula 200
+### Aula 201
 
+class, atributos, metodos.
+self, criando o metodo init, que constroi os objetos.
 
+# Aula 202
 
+Métodos em instâncias de classes Python
 
+# Aula 203
+
+pode usar a classe para chamar o metodo, mas tem que passar
+uma instancia como parametro.
+
+# Aula 204
+
+metodo que chama outro metodo.
+
+# Aula 205
+
+Multiplos métodos e varias chamadas dos metodos.
+
+# Aula 206
+
+Atributos de classe
+
+# Aula 207
+
+"__dict__" ele mostra o objeto e inclui propriedade e valor.
+"vars" exibe o conteudo do objeto.
+
+# Aula 208
+# Aula 209 (VDPS)
+
+importar json, importar metodo de outra classe
+instanciar objeto de outra classe.
+
+# Aula 210
+
+dicas
+
+# Aula 211
+
+@classmethod
+Um metodo que cria instancia da classe
+
+# Aula 212
+
+metodo estatico, parece que não serve pra nada.
+
+# Aula 213
+
+resumo do metodo.
+
+# Aula 214
+
+@property
+um metodo que quando chamado é igual um atributo.
