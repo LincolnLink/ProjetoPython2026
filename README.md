@@ -434,10 +434,18 @@ com o comando: django-admin help
 
 # Aula 426
 
-
+Criando um path('blog/', blog, name='blog'),
 
 # Aula 427
+
+MVC - Model, View, Controler
+MVT - Model, View, Template
+
 # Aula 428
+
+O django trabalhacom o settings, usando APPS
+
+
 # Aula 429
 # Aula 430
 # Aula 431

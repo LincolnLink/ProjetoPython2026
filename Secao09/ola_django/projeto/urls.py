@@ -18,9 +18,9 @@ from django.contrib import admin
 from django.urls import path
 from django.http import HttpResponse
 
-def blog(request):
-    print('blog')
-    return HttpResponse('Blog')
+def blog(request): #view
+    print('blog7')  #pode fazer qualquer coisa aqui, como acessar banco de dados, etc
+    return HttpResponse('Blog77') #resposta para o navegador, pode ser um html, json, etc
 
 def home(request):
     return HttpResponse('Home')
