@@ -22,7 +22,11 @@ def blog(request):
     print('blog')
     return HttpResponse('Blog')
 
+def home(request):
+    return HttpResponse('Home')
+
 urlpatterns = [
+    path('', home, name='home'),
     path('admin/', admin.site.urls, name='admin'),
     path('blog/', blog, name='blog'),
 ]
