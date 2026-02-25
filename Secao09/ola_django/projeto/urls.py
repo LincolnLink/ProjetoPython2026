@@ -16,17 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from django.http import HttpResponse
-
-def blog(request): #view
-    print('blog7')  #pode fazer qualquer coisa aqui, como acessar banco de dados, etc
-    return HttpResponse('Blog77') #resposta para o navegador, pode ser um html, json, etc
-
-def home(request):
-    return HttpResponse('Home')
+from home import views
+from blog import views as blog_views
 
 urlpatterns = [
-    path('', home, name='home'),
+    path('', views.home, name='home'),
     path('admin/', admin.site.urls, name='admin'),
-    path('blog/', blog, name='blog'),
+    path('blog/', blog_views.blog, name='blog'),
 ]
