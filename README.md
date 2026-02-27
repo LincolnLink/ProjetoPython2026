@@ -463,4 +463,19 @@ MVT - Model, View, Template
 faz a conexao do view do app com o projeto principal.
 
 # Aula 430
+
+1) cria um arquivo "urls" para cada projeto.
+2) pode por subUrls.
+3) são urls que so é exibida naquele projeto.
+
 # Aula 431
+
+rederizando template html
+
+1) cria pasta template para cada projeto.
+2) nele você cria todos os arquivos html.
+3) NÃO esquece de cadastrar o seu app no settings, no array INSTALLED_APPS.
+4) com isso ja funciona, mas tem que ve se a rota esta configurada certo.
+
+
+5) para evitar colisão e bom por o arquivo html em uma pasta com o nome do app.
