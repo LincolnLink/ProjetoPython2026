@@ -206,13 +206,21 @@ solução do exercicio.
 
 ### Aula 73
 
-For
-
+For, estrutura de repetição para coisas finitas.
 
 ### Aula 74
 
+função range, mais o for.
+
 ### Aula 75
+
+como o for funciona.
+
 ### Aula 76
+
+Um for dentro do outro.
+(metade)
+
 ### Aula 77
 
 ### Aula 78
