@@ -222,12 +222,20 @@ Um for dentro do outro.
 (metade)
 
 ### Aula 77
-
 ### Aula 78
+
+exercicio da palavra secreta.
+conselho
+
 ### Aula 79
 ### Aula 80
 
+solução 01 e 02
+
 ### Aula 81
+
+tipo list
+
 ### Aula 82
 ### Aula 83
 
